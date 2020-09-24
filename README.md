@@ -12,3 +12,16 @@ Progres 21 September :
  Screen shot of <h2>Home Section</h2>
  
  <img src ="https://github.com/SaadAhmedSalim/MyPortfolioWebsite/blob/master/Screenshot_2020-09-21%20Personal%20Portfolio%20Template.png">
+
+Progres 22 September :
+
+   <h3> <b> Planning the About page Content </b> </h3>
+      
+      - I will make home section today. this will be part 2.
+      
+      - About myself added
+
+Progres 23 September :
+
+      - skils added
+
