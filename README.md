@@ -39,8 +39,26 @@ Screen shot of <h2>About Section</h2>
 
    <h3> <b> Planning the Service Content </b> </h3>
     
-         - Done I will upload the code soon.
+         - Done and I have uploaded the code soon.
        
    <img src ="https://github.com/SaadAhmedSalim/MyPortfolioWebsite/blob/master/Screenshot_2020-10-11 Services.png">
+
+
+Progres 12 October :
+
+   <h3> <b> Planning the Portfolio Content </b> </h3>
+    
+         - Done I will upload the code soon.
+    
+    Feature:
+         
+         - Portfolio design
+         
+         - LightBox added
+         
+         - JS added
+         
+         - Hover Effect added
+   <img src ="https://github.com/SaadAhmedSalim/MyPortfolioWebsite/blob/master/Screenshot_2020-10-12 Portfolio.png">
 
  
