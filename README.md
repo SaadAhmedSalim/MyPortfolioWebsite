@@ -25,3 +25,12 @@ Progres 23 September :
 
       - skils added
 
+Progress 10 October :
+
+      - All About Section Done 
+      
+Screen shot of <h2>About Section</h2>
+ 
+ <img src ="https://github.com/SaadAhmedSalim/MyPortfolioWebsite/blob/master/Screenshot_2020-10-11.png">
+ <br>
+ <img src ="https://github.com/SaadAhmedSalim/MyPortfolioWebsite/blob/master/Screenshot2_2020-10-11.png">
