@@ -48,7 +48,7 @@ Progres 12 October :
 
    <h3> <b> Planning the Portfolio Content </b> </h3>
     
-         - Done I will upload the code soon.
+         - Done.
     
     Feature:
          
@@ -59,6 +59,14 @@ Progres 12 October :
          - JS added
          
          - Hover Effect added
+         
    <img src ="https://github.com/SaadAhmedSalim/MyPortfolioWebsite/blob/master/Screenshot_2020-10-12 Portfolio.png">
 
  
+ <h3> <b> Planning the Blog Content </b> </h3>
+    
+         - Done and I have uploaded the code.
+         
+         - Time 4.40 am.
+
+   <img src ="https://github.com/SaadAhmedSalim/MyPortfolioWebsite/blob/master/Screenshot_2020-10-12 Blog.png">
