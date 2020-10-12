@@ -70,3 +70,12 @@ Progres 12 October :
          - Time 4.40 am.
 
    <img src ="https://github.com/SaadAhmedSalim/MyPortfolioWebsite/blob/master/Screenshot_2020-10-12 Blog.png">
+
+
+<h3> <b> Planning the Contact Content </b> </h3>
+    
+         - Done and I have uploaded the code.
+         
+         - Time 12.40 pm.
+
+   <img src ="https://github.com/SaadAhmedSalim/MyPortfolioWebsite/blob/master/Screenshot_2020-10-12 Contact.png">
