@@ -79,3 +79,19 @@ Progres 12 October :
          - Time 12.40 pm.
 
    <img src ="https://github.com/SaadAhmedSalim/MyPortfolioWebsite/blob/master/Screenshot_2020-10-12 Contact.png">
+   
+   
+   Progres 13 October :
+
+   <h3> <b> Plan to Responsive Site </b> </h3>
+    
+         - Done.
+         
+   <h3> <b> Plan to JS script </b> </h3>
+   
+       Feature -
+       
+            - Style Switcher  (Added Pink, Blue, Green, Yellow)
+            
+            - Body Skin (Light and Dark effect)
+            
