@@ -18,39 +18,49 @@
 
 </head>
 <body>
+  <!-- Preloader -->
+  <div class="preloader">
+    <div class="loader">
+    </div>
+  </div>
+  <!-- Preloader End -->
   <!-- Main Container -->
+
   <div class="main-container">
   <!-- Aside -->
       <div class="aside">
-        <!--logo-->
-        <div class="logo">
-          <a href="#">Saad</a>
-        </div>
         <!-- Nav toggler btn-->
         <div class="nav-toggler">
           <span></span>
 
         </div>
         <!-- Nav-->
+        <div class="aside-inner">
+        <!--logo-->
+        <div class="logo">
+          <a href="#">Saad</a>
+        </div>
+
+
         <ul class="nav">
-          <li> <a href="#" class="active"> <i class="fa fa-home"></i> Home</a></li>
-          <li> <a href="#"> <i class="fa fa-user"></i> About</a></li>
-          <li> <a href="#"> <i class="fa fa-list"></i> Services</a></li>
-          <li> <a href="#"> <i class="fa fa-briefcase"></i> Portfolio</a></li>
-          <li> <a href="#"> <i class="fa fa-envelope"></i> Blog</a></li>
-          <li> <a href="#"> <i class="fa fa-comments"></i> Contact</a></li>
+          <li> <a href="#home" class="active"> <i class="fa fa-home"></i> Home</a></li>
+          <li> <a href="#about"> <i class="fa fa-user"></i> About</a></li>
+          <li> <a href="#services"> <i class="fa fa-list"></i> Services</a></li>
+          <li> <a href="#portfolio"> <i class="fa fa-briefcase"></i> Portfolio</a></li>
+          <li> <a href="#blog"> <i class="fa fa-envelope"></i> Blog</a></li>
+          <li> <a href="#contact"> <i class="fa fa-comments"></i> Contact</a></li>
         </ul>
         <!-- Copyright -->
         <div class="copyright-text">
           &copy; <b> <i>Saad Salim</i></b>
         </div>
-
+       </div>
       </div>
       <!-- Aside End -->
       <!-- Main Content -->
       <div class="main-content">
         <!-- Home Section -->
-        <section class="home section" >
+        <section class="home section active" id="home" >  <!-- Section 0-->
           <div class="container">
             <div class="intro">
               <img src="images/me.jpg" alt="profile" class="shadow-dark" >
@@ -69,7 +79,7 @@
         <!-- Home Section end -->
 
         <!-- About Section -->
-        <section class="about section">
+        <section class="about section" id="about">  <!-- Section 1-->
           <div class="container">
             <div class="row">
               <div class="section-title padd-15">
@@ -121,7 +131,7 @@
                     <div class="row">
                       <div class="buttons padd-15">
                         <a href="#" class="btn" >Download CV</a>
-                        <a href="#" class="btn" >Hire Me</a>
+                        <a href="#contact" data-section-index="1" class="btn hire-me" >Hire Me</a>
                       </div>
                     </div>
                   </div>
@@ -316,7 +326,7 @@
         <!-- About Section End -->
 
         <!-- Service Section-->
-        <section class="service section">
+        <section class="service section" id="services"> <!-- Section 2-->
           <div class="container">
             <div class="row">
               <div class="section-title padd-15">
@@ -396,7 +406,7 @@
         <!-- Service Section END-->
 
         <!-- Portfolio Section-->
-        <section class="portfolio section">
+        <section class="portfolio section" id="portfolio">
           <div class="container">
             <div class="row">
               <div class="section-title">
@@ -512,7 +522,7 @@
         <!-- Portfolio Section End-->
 
         <!-- Blog Section -->
-        <section class="blog section" >
+        <section class="blog section" id="blog" >
           <div class="container">
             <div class="row">
               <div class="section-title padd-15">
@@ -581,7 +591,7 @@
         <!-- Blog Section End-->
 
         <!-- Contact Section -->
-        <section class="contact section" >
+        <section class="contact section" id="contact">
           <div class="container">
             <div class="row">
               <div class="section-title padd-15">
