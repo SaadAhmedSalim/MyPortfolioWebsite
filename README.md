@@ -1,5 +1,18 @@
 # MyPortfolioWebsite
-I wan to make a personal portfolio using HTML, CSS and JS. This will be my personal blog.
+
+ Plan taken <b>20 September</b> : I want to make a personal portfolio using HTML, CSS and JS. This will be my personal website.
+ 
+ <h2>Table of Content</h2>
+ 
+      Part 1:   Home Section
+      Part 2:   About Section
+      Part 3:   Service Section
+      Part 4:   Portfolio Section
+      Part 5:   Blog Section
+      Part 6:   Contact Section
+      Part 7:   Responsive Section
+      Part 8:   Style Switcher Section
+      Part 9:   Create links to Section
 
 Progres 21 September :
 
@@ -111,3 +124,14 @@ Progres 14 October :
             - Hide and show sidebar
             
             - Page loaders
+            
+            finishing time : 12.43 am, 15 October,2020
+            
+ 
+ Special Thanks to "The WebShala" :heart_eyes:
+ 
+ YouTube Link: https://www.youtube.com/watch?v=ONqgNVWJ-Dw  :satisfied:
+ 
+ You will find all videos in his playlist
+ 
+ :blush:   
