@@ -7,6 +7,15 @@
    <!-- Template css Files -->
 	<link rel="stylesheet" href="css/style.css" type="text/css">
   <link rel="stylesheet" href="css/skins/pink.css" type="text/css">
+  <!-- Live Style Switcher - Demo Only -->
+  <link rel="stylesheet" class="alternate-style" title="blue" href="css/skins/blue.css" type="text/css" disabled>
+  <link rel="stylesheet" class="alternate-style" title="green" href="css/skins/green.css" type="text/css" disabled>
+  <link rel="stylesheet" class="alternate-style" title="orange" href="css/skins/orange.css" type="text/css" disabled>
+  <link rel="stylesheet" class="alternate-style" title="yellow" href="css/skins/yellow.css" type="text/css" disabled>
+  <link rel="stylesheet" class="alternate-style" title="pink" href="css/skins/pink.css" type="text/css" disabled>
+
+  <link rel="stylesheet" href="css/styleSwitcher.css" type="text/css">
+
 </head>
 <body>
   <!-- Main Container -->
@@ -41,7 +50,7 @@
       <!-- Main Content -->
       <div class="main-content">
         <!-- Home Section -->
-        <section class="home section hidden" >
+        <section class="home section" >
           <div class="container">
             <div class="intro">
               <img src="images/me.jpg" alt="profile" class="shadow-dark" >
@@ -60,7 +69,7 @@
         <!-- Home Section end -->
 
         <!-- About Section -->
-        <section class="about section hidden">
+        <section class="about section">
           <div class="container">
             <div class="row">
               <div class="section-title padd-15">
@@ -307,7 +316,7 @@
         <!-- About Section End -->
 
         <!-- Service Section-->
-        <section class="service section hidden">
+        <section class="service section">
           <div class="container">
             <div class="row">
               <div class="section-title padd-15">
@@ -387,7 +396,7 @@
         <!-- Service Section END-->
 
         <!-- Portfolio Section-->
-        <section class="portfolio section hidden">
+        <section class="portfolio section">
           <div class="container">
             <div class="row">
               <div class="section-title">
@@ -503,7 +512,7 @@
         <!-- Portfolio Section End-->
 
         <!-- Blog Section -->
-        <section class="blog section hidden" >
+        <section class="blog section" >
           <div class="container">
             <div class="row">
               <div class="section-title padd-15">
@@ -681,7 +690,61 @@
   </div>
   <!-- LightBox END-->
 
+  <!-- Live Style Switcher - Demo Only -->
+  <div class="style-switcher">
+    <div class="toggle-style-switcher">
+      <i class="fa fa-cog fa-spin" ></i>
+    </div>
+      <h5>Style Switcher</h5>
+        <ul>
+            <li>
+                <a href="javaScript:void(0);" title="pink"
+                style="background-color: #ec1839"
+                onclick="setActiveStyle('pink')"></a>
+            </li>
+
+            <li>
+                <a href="javaScript:void(0);" title="blue"
+                style="background-color: #2196f3"
+                onclick="setActiveStyle('blue')"></a>
+            </li>
+
+            <li>
+                <a href="javaScript:void(0);" title="orange"
+                style="background-color: #fa5b0f"
+                onclick="setActiveStyle('orange')"></a>
+            </li>
+
+            <li>
+                <a href="javaScript:void(0);" title="yellow"
+                style="background-color: #ffb400"
+                onclick="setActiveStyle('yellow')"></a>
+            </li>
+
+            <li>
+                <a href="javaScript:void(0);" title="green"
+                style="background-color: #72b626"
+                onclick="setActiveStyle('green')"></a>
+            </li>
+        </ul>
+        <h5>Body Skin</h5>
+        <label>
+            <input type="radio" class="body-skin" name="body-style" value="light" checked="true" >
+            Light
+        </label>
+
+        <label>
+            <input type="radio" class="body-skin" name="body-style" value="dark">
+            Dark
+        </label>
+  </div>
+  <!-- Live Style Switcher - Demo Only End-->
+
 <!-- Template JS-->
 <script src="js/script.js"></script>
+
+<!-- Live Style Switcher JS - Demo Only-->
+<script src="js/styleSwitcher.js"></script>
+
 </body>
 </html>
