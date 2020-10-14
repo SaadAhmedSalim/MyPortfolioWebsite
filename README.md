@@ -95,3 +95,19 @@ Progres 12 October :
             
             - Body Skin (Light and Dark effect)
             
+
+Progres 14 October :
+
+   <h3> <b> Plan to Create Links to sections Site </b> </h3>
+    
+         - Done.
+         
+   <h3> <b> Plan to JS script </b> </h3>
+   
+       Feature -
+       
+            - Responsive resolution for all kinds of device
+            
+            - Hide and show sidebar
+            
+            - Page loaders
