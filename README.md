@@ -1,5 +1,7 @@
 # MyPortfolioWebsite
 
+ <img src="https://wakatime.com/badge/github/SaadAhmedSalim/My_Portfolio_Website.svg" />
+
 Link: http://saadsalim278.byethost15.com/MyPortfolio/index.html
 
  Plan taken <b>20 September</b> : I want to make a personal portfolio using HTML, CSS and JS. This will be my personal website.
